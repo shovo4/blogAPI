@@ -51,5 +51,9 @@ cd blogAPI
 - DELETE /posts/:id: Delete a post
 
 ## Screetshots
+- <img width="1459" alt="Screenshot 2024-01-08 at 12 22 12 PM" src="https://github.com/shovo4/blogAPI/assets/58551093/905d08af-6d6f-45a0-8520-b651d4325c5e">
+- <img width="1208" alt="Screenshot 2024-01-08 at 12 22 23 PM" src="https://github.com/shovo4/blogAPI/assets/58551093/231b807f-ee30-4720-95e9-812e8e3c0f7e">
+- <img width="1219" alt="Screenshot 2024-01-08 at 12 22 34 PM" src="https://github.com/shovo4/blogAPI/assets/58551093/419c3031-b62b-4125-a04d-78968d3a921f">
 
- 
+
+
